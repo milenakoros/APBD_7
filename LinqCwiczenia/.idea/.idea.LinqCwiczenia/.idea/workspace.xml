@@ -9,24 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1d1cd8e-be7a-4aa8-83d5-f4ec1f54c215" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LinqCwiczenia/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LinqCwiczenia/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LinqCwiczenia/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinqCwiczenia/LinqTutorials/LinqTasks.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinqCwiczenia/LinqTutorials/LinqTutorials.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinqCwiczenia/LinqTutorials/Models/Dept.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinqCwiczenia/LinqTutorials/Models/Emp.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinqCwiczenia/LinqTutorials/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LinqCwiczenia/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LinqCwiczenia/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinqCwiczenia.sln" beforeDir="false" afterPath="$PROJECT_DIR$/LinqCwiczenia.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinqTutorials/LinqTasks.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinqTutorials/LinqTutorials.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinqTutorials/Models/Dept.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinqTutorials/Models/Emp.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinqTutorials/Program.cs" beforeDir="false" />
-    </list>
+    <list default="true" id="d1d1cd8e-be7a-4aa8-83d5-f4ec1f54c215" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -121,14 +105,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718406188607</updated>
-      <workItem from="1718406189763" duration="3838000" />
+      <workItem from="1718406189763" duration="4168000" />
     </task>
+    <task id="LOCAL-00001" summary="All tasks are done">
+      <option name="closed" value="true" />
+      <created>1718410310010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718410310010</updated>
+    </task>
+    <task id="LOCAL-00002" summary="xxx">
+      <option name="closed" value="true" />
+      <created>1718410320929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718410320929</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="All tasks are done" />
+    <MESSAGE value="xxx" />
+    <option name="LAST_COMMIT_MESSAGE" value="xxx" />
   </component>
 </project>
